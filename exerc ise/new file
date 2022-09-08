@@ -1,0 +1,5 @@
+Exercise 1:- hands on practice on creating tables
+
+FacultyDetails:-
+
+create table FacultyDetails(faculty_id varchar(20) primary key not null,title varchar(7),faculty_name varchar(30),faculty_lacation varchar(30),faculty_track varchar(15),faculty_qualification varchar(100),faculty_experiance int,faculty_email varchar(100),faculty_password varchar(20));
